@@ -1,0 +1,29 @@
+{
+  "name": "karma-moment",
+  "version": "0.1.0",
+  "description": "A Karma plugin - adapter for Moment framework.",
+  "author": "Artem Koshelev <art.koshelev@gmail.com> (https://github.com/artkoshelev)",
+  "main": "./index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/artkoshelev/karma-moment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/artkoshelev/karma-moment/issues"
+  },
+  "homepage": "https://github.com/artkoshelev/karma-moment",
+  "keywords": [
+    "karma-plugin",
+    "karma-framework",
+    "moment"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "readme": "karma-moment\n=================\n\nKarma plugin for Moment framework\n",
+  "readmeFilename": "README.md",
+  "_id": "karma-moment@0.1.0",
+  "_from": "karma-moment@"
+}
